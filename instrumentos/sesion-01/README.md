@@ -1,12 +1,16 @@
-# Sesi?n 1 — Cuaderno
+# Sesión 1 — Cuaderno
 
-`Sesion 1.xlsx` trae la matriz, el cronograma, las condiciones, los riesgos, el cotejo ?tico y la r?brica. Falta la hoja «2. Libro de c?digos», retirada por los nombres. La leyenda del archivo todav?a la menciona: en esta copia esa hoja no est?.
+`Sesion 1.xlsx` trae la matriz, el cronograma, las condiciones, los riesgos, el cotejo ético y la rúbrica. Falta la hoja «2. Libro de códigos», retirada por los nombres. La leyenda del archivo todavía la menciona: en esta copia esa hoja no está.
 
-Hay dos calendarios y hay que unificarlos antes de seguir:
+El calendario de campo queda así. Las autorizaciones del 10/07/2026 no se movieron.
 
-- Matriz de coherencia: pretest 11–16/11/2026, intervenci?n 18–24/11/2026, postest 25–30/11/2026.
-- Cronograma de campo: pretest 20–25/10/2026, intervenci?n 27/10–02/11/2026, postest 03–08/11/2026.
+- Preparación que estaba el 12/10: del 04/10 al 11/10, y el congelamiento de la versión el 18/10.
+- Pretest O1: 12–17/10/2026.
+- Intervención X: 19–25/10/2026.
+- Postest O2: 26–31/10/2026.
+- Holgura: 01–07/11/2026.
+- Cierre y digitación: 08–12/11/2026.
 
-La matriz cita la hoja del cronograma, pero las fechas no coinciden. Esta copia no elige uno de los dos.
+El rango 20–25/10 era un error del cronograma. Se corrió todo 8 días atrás y se conservaron las duraciones.
 
-La leyenda dice que los datos son simulados para el seminario y no corresponden a una aplicaci?n real.
+La leyenda dice que los datos son simulados para el seminario y no corresponden a una aplicación real.

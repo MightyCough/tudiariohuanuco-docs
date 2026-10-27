@@ -1,5 +1,7 @@
 # Sesión 8 — Cuaderno de consolidación
 
-`Sesion 8.xlsx` es la plantilla del laboratorio de consolidación. En la clase el archivo se llama Sesión 9 (`Lab_Sesion_9_Consolidacion_Estudiante.xlsx`). Aquí sigue el número de la carpeta: sesión 8.
+`Sesion 8.xlsx` reemplaza la plantilla de la municipalidad. Es la base de Tu Diario, versión v1.0-simulada. No está liberada para campo y la firma del asesor sigue pendiente.
 
-Sigue siendo el ejemplo de clase. No tiene códigos `GU-TDH` ni la base del pretest de Tu Diario. Al llenarla, la muestra es 108 y el postest es el de la sesión 7.
+Trae el pretest de la sesión 3, el postest simulado de la sesión 7 (105 casos) y una consolidada ancha de 108 filas. INCLUIR vale 1 en 105 y 0 en GU-TDH-015, GU-TDH-033 y GU-TDH-053.
+
+La bitácora deja el cambio de fechas: el valor original del pretest era 20–25/10/2026 y el valor nuevo es 12–17/10/2026. También deja escrito que el SUS del postest es simulado.

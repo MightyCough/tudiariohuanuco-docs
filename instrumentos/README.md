@@ -6,6 +6,8 @@ Las sesiones 1, 2 y 3 traen datos simulados del seminario, no el trabajo de camp
 
 La hoja «2. Libro de códigos» de la sesión 1 no está aquí: contiene nombres. Sigue en Drive y no cuadra con la base (activos distintos, y la fila de ejemplo GU-TDH-001).
 
-Las sesiones 4, 5 y 6 están llenas con esa misma simulación: 108 códigos e intervención del 27/10 al 02/11/2026. La sesión 7 cierra esa cohorte. La sesión 8 es la plantilla de consolidación del ejemplo de clase y todavía no tiene esos códigos.
+Calendario de los cuadernos: pretest 12–17/10/2026, versión congelada el 18/10/2026, intervención 19–25/10/2026, postest 26–31/10/2026. Las autorizaciones del 10/07/2026 no se movieron.
 
-Solo se escriben las celdas amarillas (en las sesiones 1 a 3, relleno FFFDE7). No se pisan las fórmulas ni se califican las rúbricas del docente.
+La sesión 7 cierra esa cohorte. El SUS del postest es simulado. La sesión 8 es la consolidación v1.0-simulada, no liberada para campo.
+
+Solo se escriben las celdas amarillas. No se pisan las fórmulas ni se califican las rúbricas del docente.
