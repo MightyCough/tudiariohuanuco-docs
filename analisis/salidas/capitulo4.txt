@@ -1,0 +1,75 @@
+CAPÍTULO IV — SALIDAS. DATOS SIMULADOS DEL SEMINARIO, NO SON MEDICIÓN DE CAMPO.
+Fuentes: S3 (pretest), S7 hoja 6b (postest), S10 hoja 1_Base_v1. Pares: 105. Retiros: GU-TDH-015, 033, 053.
+
+== Tabla 4.1 Caracterización (n = 108)
+Zona | Urbana | 73 | 67.6
+Zona | Periurbana | 35 | 32.4
+Red | 3G | 8 | 7.4
+Red | 4G | 51 | 47.2
+Red | 5G | 2 | 1.9
+Red | Wi-Fi | 47 | 43.5
+Edad | 18–29 | 58 | 53.7
+Edad | 30–44 | 48 | 44.4
+Edad | 45–59 | 2 | 1.9
+Edad | 60 o más | 0 | 0.0
+Lectura semanal | 3–6 | 35 | 32.4
+Lectura semanal | 7–11 | 50 | 46.3
+Lectura semanal | 12 o más | 23 | 21.3
+Edad M (DE) = 30.01 (5.61); Me = 29.0; rango 20–50
+Frecuencia semanal M (DE) = 8.80 (3.69)
+
+== Tabla 4.2 Descriptivos por indicador y momento (n = 105)
+Indicador | Momento | M | DE | Me | Q1 | Q3 | Mín | Máx | Asimetría
+SUS | Pretest | 56.33 | 12.89 | 55.00 | 47.50 | 65.00 | 27.50 | 85.00 | -0.05
+SUS | Postest | 76.52 | 12.91 | 75.00 | 70.00 | 87.50 | 40.00 | 100.00 | -0.54
+SUS Usability | Pretest | 56.52 | 13.55 | 56.25 | 46.88 | 65.62 | 28.12 | 87.50 | 0.04
+SUS Usability | Postest | 75.92 | 13.16 | 75.00 | 68.75 | 87.50 | 43.75 | 100.00 | -0.41
+SUS Learnability | Pretest | 55.60 | 16.53 | 50.00 | 50.00 | 62.50 | 12.50 | 100.00 | 0.04
+SUS Learnability | Postest | 78.93 | 16.29 | 75.00 | 75.00 | 87.50 | 25.00 | 100.00 | -0.58
+TAM | Pretest | 22.00 | 6.01 | 22.00 | 17.00 | 26.00 | 9.00 | 36.00 | 0.17
+TAM | Postest | 32.28 | 4.49 | 32.00 | 29.00 | 36.00 | 22.00 | 40.00 | -0.09
+TAM 3.1 satisfacción general | Pretest | 16.60 | 4.65 | 16.00 | 13.00 | 20.00 | 7.00 | 27.00 | 0.11
+TAM 3.1 satisfacción general | Postest | 24.30 | 3.33 | 24.00 | 22.00 | 27.00 | 17.00 | 30.00 | -0.09
+TAM 3.2 intención de reutilización | Pretest | 5.40 | 1.66 | 5.00 | 4.00 | 7.00 | 2.00 | 10.00 | 0.26
+TAM 3.2 intención de reutilización | Postest | 7.98 | 1.43 | 8.00 | 7.00 | 9.00 | 5.00 | 10.00 | -0.30
+Tiempo (s) | Pretest | 209.94 | 40.36 | 211.50 | 177.00 | 243.50 | 98.00 | 293.50 | -0.20
+Tiempo (s) | Postest | 83.87 | 28.70 | 82.50 | 66.00 | 98.00 | 32.00 | 218.90 | 1.54
+Clics | Pretest | 22.30 | 5.21 | 22.00 | 20.00 | 26.00 | 11.00 | 32.00 | -0.25
+Clics | Postest | 11.32 | 3.76 | 11.00 | 9.00 | 13.00 | 3.00 | 24.00 | 0.75
+
+== Tabla 4.3 Niveles (cortes a priori de la sesión 10)
+SUS Pretest: Bajo 5 (4.8 %), Medio 77 (73.3 %), Alto 23 (21.9 %)
+SUS Postest: Bajo 0 (0.0 %), Medio 19 (18.1 %), Alto 86 (81.9 %)
+TAM Pretest: Bajo 32 (30.5 %), Medio 61 (58.1 %), Alto 12 (11.4 %)
+TAM Postest: Bajo 0 (0.0 %), Medio 32 (30.5 %), Alto 73 (69.5 %)
+SUS ≥ 68 (umbral de aceptabilidad) Pretest: 17 (16.2 %)
+SUS ≥ 68 (umbral de aceptabilidad) Postest: 81 (77.1 %)
+
+== Tabla 4.4 Diferencia postest − pretest
+Indicador | M pre | M post | Dif. M | % cambio | Me dif | Mín dif | Máx dif | Mejoraron
+SUS | 56.33 | 76.52 | 20.19 | 35.8 | 20.00 | -15.00 | 62.50 | 101 (96.2 %)
+SUS Usability | 56.52 | 75.92 | 19.40 | 34.3 | 18.75 | -6.25 | 62.50 | 99 (94.3 %)
+SUS Learnability | 55.60 | 78.93 | 23.33 | 42.0 | 25.00 | -50.00 | 62.50 | 90 (85.7 %)
+TAM | 22.00 | 32.28 | 10.28 | 46.7 | 11.00 | -4.00 | 22.00 | 102 (97.1 %)
+TAM 3.1 satisfacción general | 16.60 | 24.30 | 7.70 | 46.4 | 8.00 | -3.00 | 17.00 | 100 (95.2 %)
+TAM 3.2 intención de reutilización | 5.40 | 7.98 | 2.58 | 47.8 | 2.00 | -1.00 | 7.00 | 95 (90.5 %)
+Tiempo (s) | 209.94 | 83.87 | -126.08 | -60.1 | -129.00 | -206.50 | -15.50 | 105 (100.0 %)
+Clics | 22.30 | 11.32 | -10.97 | -49.2 | -11.00 | -28.00 | 5.00 | 102 (97.1 %)
+
+== Tabla 4.5 Normalidad de la diferencia: K-S con corrección de Lilliefors (n = 105)
+Diferencia | M | DE | Asimetría | Curtosis | D | p | Decisión | S11 (D; p)
+DIF SUS | 20.19 | 12.28 | 0.55 | 1.28 | 0.0924 | 0.0277 | no normal | 0.0924; 0.0272
+DIF Tiempo (s) | -126.08 | 43.13 | 0.41 | -0.19 | 0.0466 | 0.8430 | normal | 0.0466; 0.841
+DIF TAM | 10.28 | 5.39 | -0.19 | -0.30 | 0.0700 | 0.2450 | normal | 0.07; 0.2301
+DIF Clics | -10.97 | 5.72 | 0.08 | 0.01 | 0.0706 | 0.2372 | normal | 0.0706; 0.221
+Levene: no aplica (muestras relacionadas, sin grupo de comparación).
+
+== Tablas 4.6 a 4.9 Contrastación (α = .05, bilateral; d = postest − pretest)
+He1 SUS: Wilcoxon | rangos + = 5316.0, rangos − = 40.0, n sin empates en 0 = 103 | Z = 8.69 | p = 3.76e-18 | Me dif = 20.00 | HL = 20.00, IC 95 % [17.50; 22.50] | r = 0.85
+   Sensibilidad (t relacionada sobre la misma DIF): t(104) = 16.85, p = 1.67e-31, dz = 1.64
+He2 tiempo: t relacionada | M dif = -126.08, DE dif = 43.13 | t(104) = -29.96 | p = 5.9e-53 | IC 95 % [-134.42; -117.73] | dz = -2.92 | g = -2.90
+He3 TAM: t relacionada | M dif = 10.28, DE dif = 5.39 | t(104) = 19.54 | p = 1.34e-36 | IC 95 % [9.23; 11.32] | dz = 1.91 | g = 1.89
+Complementaria clics: t relacionada | M dif = -10.97, DE dif = 5.72 | t(104) = -19.66 | p = 8.23e-37 | IC 95 % [-12.08; -9.86] | dz = -1.92 | g = -1.90
+
+Hg (regla del PDT §3.6.4: se rechaza H0 general si se rechazan las tres H0 específicas): se rechaza H0 (3 de 3).
+Robustez con Bonferroni (α/3 = .0167): 3 de 3 por debajo.
