@@ -62,6 +62,14 @@ mal = [c.coordinate for row in ws11.iter_rows(min_row=5, min_col=10, max_col=13)
 check("S11: DIF = postest − pretest de la misma fila", not mal, f"celdas {mal[:5]}")
 
 
+wsn = openpyxl.load_workbook(I / "sesion-11/Sesion 11.xlsx")["3_Normalidad"]
+desfase = [c.coordinate for fila, col in zip(range(5, 9), "JKLM") for c in wsn[fila]
+           if isinstance(c.value, str) and "1_Base_v1" in c.value
+           and set(re.findall(r"!\$?([A-Z]+)\$?\d+:\$?([A-Z]+)", c.value)) != {(col, col)}]
+check("S11 3_Normalidad: SUS, TAM, tiempo y clics leen DIF_SUS, DIF_TAM, DIF_TIEMPO y DIF_CLICS", not desfase,
+      f"celdas {desfase[:5]}")
+
+
 def textos(archivo):
     wb = openpyxl.load_workbook(I / archivo)
     return [(ws.title, c.coordinate, c.value) for ws in wb for row in ws.iter_rows() for c in row
