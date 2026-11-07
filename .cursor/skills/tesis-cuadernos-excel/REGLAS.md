@@ -1,31 +1,41 @@
 # Reglas — cuadernos Excel de Seminario de Tesis III
 
-Seminario de Tesis III, 062110052, Jenny Reynoso. Aplicar este archivo al editar `instrumentos/sesion-01` … `instrumentos/sesion-06`.
+Seminario de Tesis III, 062110052, Jenny Reynoso. Única fuente de las reglas: `SKILL.md`, `AGENTS.md` y los subagentes remiten aquí. Si un dato cambia, se cambia solo en este archivo.
 
-## Reglas
+Cuadernos en `instrumentos/sesion-01` … `sesion-11`. No hay sesión 8: la consolidación es la sesión 9. PDT vigente: `pdt/markdown/PDT-DIARIO-2026.md`.
 
-- Dise?o GU: O1 — X — O2. No hay grupo de comparaci?n. Si la plantilla habla de GC, marcar No aplica.
-- Poblaci?n N = 150. Muestra n = 108 (conveniencia, no probabil?stico). 150 no es la muestra.
-- C?digos GU-TDH-###. No usar P01. Solo celdas amarillas. No pisar f?rmulas. Borrar filas de ejemplo.
-- Instrumentos de pretest y postest id?nticos (SUS 10, TAM 8, tiempos y clics). Solo cambian las tareas 1-2 frente a 3-4.
-- X dura 7 d?as y al menos 3 sesiones. No usar el ejemplo de la clase (n = 25, 6 semanas).
-- No inventar IP del VPS, tag Git, ni firmas. Stack del PDT: Next.js PWA, FastAPI, Supabase+pgvector, Redis, Gemini free, WordPress REST, Hostinger VPS KVM 1, Dokploy, chat.tudiariohuanuco.pe.
-- No autocalificar r?bricas del docente.
+## Diseño y muestra
 
-## Estado real de los Excel en Drive
+- Diseño GU: O1 — X — O2. No hay grupo de comparación. En las plantillas el grupo único se guarda como GE, porque así cuentan las fórmulas. Si la plantilla habla de GC, marcar No aplica.
+- Población N = 150. Muestra n = 108 (conveniencia, no probabilístico). 150 no es la muestra.
+- Códigos GU-TDH-002 a GU-TDH-125 (108 en total, con huecos). No usar GU-TDH-001 ni P01.
+- Retiros sin postest: GU-TDH-015, GU-TDH-033 y GU-TDH-053. El análisis apareado usa 105.
+- Instrumentos de pretest y postest idénticos (SUS 10, TAM 8, tiempos y clics). Solo cambian las tareas 1-2 frente a 3-4.
+- X dura 7 días y al menos 3 sesiones.
 
-- Sesiones 1, 2 y 3 est?n llenadas por el equipo, con datos simulados del seminario. La base del pretest (Sesi?n 3) tiene 108 casos. El libro de c?digos no cuadra del todo con esa base (activos distintos, y una fila de ejemplo GU-TDH-001).
-- Dentro de la Sesi?n 1 hay dos calendarios: la matriz dice pretest 11–16/11, intervenci?n 18–24/11 y postest 25–30/11; el cronograma dice pretest 20–25/10, intervenci?n 27/10–02/11 y postest 03–08/11. Hay que unificarlos antes de seguir.
-- Las sesiones 4, 5 y 6 en Drive siguen siendo la plantilla. Un intento anterior de llenarlas no se subi?. No lo des por hecho. Al rehacerlas, la muestra tiene que seguir siendo 108, no 30 ni 60 por el tope de la plantilla.
+## Calendario
 
-## Copia publicada el 26/10/2026
+Pretest 12–17/10/2026, congelamiento el 18/10/2026 (tag v1.0.0-frozen-2026-10-18), intervención 19–25/10/2026, postest 26–31/10/2026, holgura 01–07/11/2026, cierre 08–12/11/2026. Capacitación el 17/10. Las autorizaciones del 10/07/2026 no se mueven.
 
-La hoja «2. Libro de c?digos» no est? en este repositorio. El original, con nombres, sigue en Drive.
+## Llenado
 
-La base del pretest y la trazabilidad de la Sesi?n 2 comparten los mismos 108 c?digos y no incluyen GU-TDH-001. En el libro de c?digos, GU-TDH-001 est? marcado activo y es la fila de ejemplo. Est?n en la base y no figuran como activos: GU-TDH-006, GU-TDH-053, GU-TDH-069, GU-TDH-084 y GU-TDH-109.
+- Solo celdas amarillas (relleno FFFDE7). El dato escrito va en azul. Las fórmulas van en celdas blancas y no se pisan.
+- No copiar el ejemplo de clase: municipalidad, GE/GC, GE-001, n = 41 o n = 25, 6 semanas. Borrar sus filas de ejemplo.
+- No inventar IP del VPS, otro tag Git ni firmas. La firma del asesor sigue pendiente.
+- Stack del PDT: Next.js PWA, FastAPI, Supabase+pgvector, Redis, Gemini free, WordPress REST, Hostinger VPS KVM 1, Dokploy, chat.tudiariohuanuco.pe.
+- No autocalificar rúbricas del docente.
 
-En las sesiones 1 a 3 el relleno de las celdas de entrada es FFFDE7. El dato ya escrito va en azul. Las f?rmulas van en celdas blancas.
+## Datos simulados
 
-Los 108 casos son simulaci?n del seminario, no la aplicaci?n real de campo. Las sesiones 4, 5 y 6 de `instrumentos/` siguen en blanco de c?digos GU-TDH.
+Los 108 casos de las sesiones 1 a 11 son simulación del seminario, no campo real. El SUS del postest de la sesión 7 es simulado; no presentarlo como O2 de campo. La sesión 9 es v1.0-simulada, no liberada para campo.
 
-Los dos calendarios de la Sesi?n 1 siguen sin unificar. No elegir uno al llenar las sesiones siguientes.
+## Sesiones 10 a 12
+
+- Sesión 10: descriptivos por objetivo (caracterización, luego SUS, TAM, tiempo y clics en pretest y postest: n, media, mediana, DE, mínimo, máximo y niveles). No contrasta hipótesis ni dice «significativo».
+- Sesión 11: normalidad de la diferencia postest ? pretest. Con n = 105 (> 50) es Kolmogorov-Smirnov con Lilliefors, no Shapiro-Wilk. Levene no aplica. Si p de Lilliefors < .05, Wilcoxon; si no, t para muestras relacionadas. ? = .05, bilateral. Sin valor p de t ni de Wilcoxon. La ficha se firma antes de contrastar.
+- Sesión 12: solo hay PDF de clase (`clases/sesion-12-contrastacion/Sesion 12.pdf`), sin Excel en Drive. Contrasta con la prueba elegida en la 11. Reporta p, intervalo y tamaño del efecto. Dice «se rechaza H0» o «no se rechaza H0», nunca «se acepta H0».
+- Nunca U de Mann-Whitney, chi-cuadrado ni Fisher: eran de otra tesis, de muestras independientes.
+
+## Privacidad
+
+La hoja «2. Libro de códigos» no está en este repositorio. El original, con nombres, sigue en Drive. No subir nombres, DNI, celular ni claves.
